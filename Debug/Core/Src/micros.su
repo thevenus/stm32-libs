@@ -1,2 +1,0 @@
-micros.c:13:6:DWT_Init	4	static
-micros.c:19:6:delay_micros	24	static
