@@ -1,1 +1,1 @@
-# DHT22 Library for STM32 *
+# DHT22 Library for STM32 
